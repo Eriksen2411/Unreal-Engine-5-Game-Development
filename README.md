@@ -13,4 +13,4 @@
 
 ## Simple Shooter
 
-* All projects were built under guidance of GameDev.tv team [https://www.gamedev.tv/](linkhttps://www.gamedev.tv/)
+* All projects were built under guidance of GameDev.tv team [https://www.gamedev.tv/](https://www.gamedev.tv/)
