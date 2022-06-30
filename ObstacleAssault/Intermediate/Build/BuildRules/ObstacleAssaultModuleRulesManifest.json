@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\All Personal Github Repos\\Unreal-Engine-5-Game-Development\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"D:\\All Personal Github Repos\\Unreal-Engine-5-Game-Development\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"D:\\All Personal Github Repos\\Unreal-Engine-5-Game-Development\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.2"
+}
