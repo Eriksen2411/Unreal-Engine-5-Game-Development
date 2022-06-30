@@ -6,6 +6,13 @@
 - Control: WASD to move around, Space to Shoot, R to Reload, Q to reset the level.
 
 ## Obstacle Assault
+- Using Blueprint Programming and C++.
+- Objective: Walk through the obstacle course to win the game.
+- Control: WASD to move around, Space to Jump, R to Reload level.
+- Screenshots:
+![image](./ObstacleAssault/Screenshots/0.png)
+![image](./ObstacleAssault/Screenshots/1.png)
+![image](./ObstacleAssault/Screenshots/2.png)
 
 ## Crypt Raider
 
